@@ -1,2 +1,2 @@
 # dubbo-c
-dubbo rpc framework. but written by C.
+dubbo[(http://dubbo.apache.org/)] rpc framework. but written by C.
